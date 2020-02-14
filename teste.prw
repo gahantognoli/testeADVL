@@ -1,3 +1,3 @@
 User Function Teste()
-    alert('teste gabriel') x
+    alert('teste gabriel')
     return NIL
